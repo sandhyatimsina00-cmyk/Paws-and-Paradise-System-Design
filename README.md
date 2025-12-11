@@ -14,6 +14,7 @@ This repository contains system design documentation for several enhanced featur
 
 - Engagement for dedicated pet owners
 
+
 The focus is on clear use cases, class diagrams, sequence diagrams, and UI mockups.
 
 ✨ Key Features Designed
@@ -32,6 +33,7 @@ Automatically notifies inventory staff when an item falls below its minimum stoc
 4. Breeding Recommendation Concept (Pet Matchmaking)
 
 Allows pet owners to explore compatible breeding matches, monitored by staff.
+
 
 🧩 Feature Details
 
@@ -63,6 +65,7 @@ Key Design Elements
 Classes: LoyaltyAccount, Order, CheckoutController, Payment, Receipt, Customer
 Artifacts: Use case, class diagram, sequence diagram, mockups.
 
+
 2️⃣ Real-Time Slot Locking for Appointments
 
 User Story
@@ -81,6 +84,7 @@ Core Idea
 
 Artifacts:
 Sequence diagram, class diagram, UI mockups.
+
 
 3️⃣ Low-Stock Auto Alert System
 
@@ -103,6 +107,7 @@ Core Idea
 Artifacts:
 Use case, sequence diagram, class diagram.
 
+
 4️⃣ Breeding Recommendation Concept
 
 User Story
@@ -117,6 +122,8 @@ Core Idea
 
 - Intended for pet owners looking for recommended matches
 
+  
+
 📎 Conclusion
 
 This project demonstrates proficiency in:
@@ -130,5 +137,6 @@ This project demonstrates proficiency in:
 - Workflow documentation
 
 - User-centered design
+  
 
 It serves as a system blueprint for future development of Paws & Paradise enhancements.
