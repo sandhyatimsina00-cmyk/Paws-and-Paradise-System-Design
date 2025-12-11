@@ -6,13 +6,13 @@ System design and analysis for the Paws &amp; Paradise e-commerce platform, incl
 Paws & Paradise is an online marketplace for pet products and grooming services.
 This repository contains system design documentation for several enhanced features that improve:
 
-Customer experience
+- Customer experience
 
-Inventory control
+- Inventory control
 
-Scheduling reliability
+- Scheduling reliability
 
-Engagement for dedicated pet owners
+- Engagement for dedicated pet owners
 
 The focus is on clear use cases, class diagrams, sequence diagrams, and UI mockups.
 
@@ -34,6 +34,7 @@ Automatically notifies inventory staff when an item falls below its minimum stoc
 Allows pet owners to explore compatible breeding matches, monitored by staff.
 
 🧩 Feature Details
+
 1️⃣ Paw Points Loyalty Redemption
 
 User Story
