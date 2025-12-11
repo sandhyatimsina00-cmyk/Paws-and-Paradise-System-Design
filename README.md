@@ -121,14 +121,14 @@ Core Idea
 
 This project demonstrates proficiency in:
 
-System analysis
+- System analysis
 
-UML modeling
+- UML modeling
 
-Feature design
+- Feature design
 
-Workflow documentation
+- Workflow documentation
 
-User-centered design
+- User-centered design
 
 It serves as a system blueprint for future development of Paws & Paradise enhancements.
