@@ -39,11 +39,11 @@ Allows pet owners to explore compatible breeding matches, monitored by staff.
 
 1️⃣ Paw Points Loyalty Redemption
 
-User Story
+**User Story**
 
 As a loyalty member, I want to redeem Paw Points during checkout so I can get discounts on pet products or grooming services.
 
-Core Idea
+**Core Idea**
 
 - Customers earn Paw Points from purchases or grooming sessions.
 
@@ -61,7 +61,7 @@ Core Idea
 
    . Shows updated total + remaining points
 
-Key Design Elements
+**Key Design Elements**
 Classes: LoyaltyAccount, Order, CheckoutController, Payment, Receipt, Customer
 Artifacts: Use case, class diagram, sequence diagram, mockups.
 
