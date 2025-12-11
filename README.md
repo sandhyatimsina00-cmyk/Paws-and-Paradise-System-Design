@@ -1,7 +1,7 @@
 # Paws-and-Paradise-System-Design
 System design and analysis for the Paws &amp; Paradise e-commerce platform, including new feature enhancements and workflow diagrams.
 
-🐾 Project Overview
+🐾**Project Overview**
 
 Paws & Paradise is an online marketplace for pet products and grooming services.
 This repository contains system design documentation for several enhanced features that improve:
@@ -17,7 +17,7 @@ This repository contains system design documentation for several enhanced featur
 
 The focus is on clear use cases, class diagrams, sequence diagrams, and UI mockups.
 
-✨ Key Features Designed
+✨ **Key Features Designed**
 1. Paw Points Loyalty Redemption at Checkout
 
 Customers can redeem Paw Points during checkout to receive discounts on products and grooming services.
@@ -35,9 +35,9 @@ Automatically notifies inventory staff when an item falls below its minimum stoc
 Allows pet owners to explore compatible breeding matches, monitored by staff.
 
 
-🧩 Feature Details
+🧩 **Feature Details**
 
-1️⃣ Paw Points Loyalty Redemption
+1️⃣ **Paw Points Loyalty Redemption**
 
 **User Story**
 
@@ -61,18 +61,14 @@ As a loyalty member, I want to redeem Paw Points during checkout so I can get di
 
    . Shows updated total + remaining points
 
-**Key Design Elements**
-Classes: LoyaltyAccount, Order, CheckoutController, Payment, Receipt, Customer
-Artifacts: Use case, class diagram, sequence diagram, mockups.
 
 
-2️⃣ Real-Time Slot Locking for Appointments
+2️⃣ **Real-Time Slot Locking for Appointments**
 
-User Story
-
+**User Story**
 As a pet owner, I want the system to temporarily lock my selected time slot so no one else can select it while I finish booking.
 
-Core Idea
+**Core Idea**
 
 - User selects a service → selects date → selects time slot
 
@@ -82,17 +78,14 @@ Core Idea
 
     . If time expires → slot released
 
-Artifacts:
-Sequence diagram, class diagram, UI mockups.
 
+3️⃣ **Low-Stock Auto Alert System**
 
-3️⃣ Low-Stock Auto Alert System
-
-User Story
+**User Story**
 
 As an inventory staff member, I want automatic low-stock alerts so I can restock items before they run out.
 
-Core Idea
+**Core Idea**
 
 - System updates item quantity
 
@@ -104,17 +97,15 @@ Core Idea
 
 - Notifies staff
 
-Artifacts:
-Use case, sequence diagram, class diagram.
 
 
-4️⃣ Breeding Recommendation Concept
+4️⃣ **Breeding Recommendation Concept**
 
-User Story
+**User Story**
 
 As a pet owner, I want help finding a compatible match for my pet to produce healthy offspring.
 
-Core Idea
+**Core Idea**
 
 - Fascinating and engaging for customers
 
@@ -124,7 +115,7 @@ Core Idea
 
   
 
-📎 Conclusion
+📎**Conclusion**
 
 This project demonstrates proficiency in:
 
