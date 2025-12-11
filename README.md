@@ -1,5 +1,6 @@
 # Paws-and-Paradise-System-Design
 System design and analysis for the Paws &amp; Paradise e-commerce platform, including new feature enhancements and workflow diagrams.
+
 🐾 Project Overview
 
 Paws & Paradise is an online marketplace for pet products and grooming services.
